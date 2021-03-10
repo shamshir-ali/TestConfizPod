@@ -7,11 +7,13 @@
 //
 
 import UIKit
-
+import TestConfizPod
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        var test = Logger()
+        test.publicLogger()
         // Do any additional setup after loading the view, typically from a nib.
     }
 

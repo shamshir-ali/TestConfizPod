@@ -1,0 +1,6 @@
+framework module TestConfizPod {
+  umbrella header "TestConfizPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

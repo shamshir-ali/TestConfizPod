@@ -1,0 +1,16 @@
+PODS:
+  - TestConfizPod (0.1.0)
+
+DEPENDENCIES:
+  - TestConfizPod (from `../`)
+
+EXTERNAL SOURCES:
+  TestConfizPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestConfizPod: e24b6c415537ee61e761dba26d304e64ca9cb1e6
+
+PODFILE CHECKSUM: 98e237870e723d811bde0c0c78abe17be9bdbec2
+
+COCOAPODS: 1.9.3
